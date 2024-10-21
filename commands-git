@@ -1,0 +1,3 @@
+Pour cloner un répertoire : git clone
+
+Pour push : git push OU git add . OU git commit 
